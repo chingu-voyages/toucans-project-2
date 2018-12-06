@@ -7,7 +7,7 @@ npm-debug.log
 *.dev
 .DS_Store
 package-lock.json
-toucans-project-2
+
 
 # Docker
 Dockerfile
